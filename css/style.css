@@ -23,8 +23,6 @@
 /* General */
 
 body {
-	margin: 0;
-	padding: 0;
 }
 
 header {
@@ -67,6 +65,11 @@ header {
 
 #exchanges .panel-body {
 	min-height: 100px !important;
+}
+
+#exchanges img {
+	width: 200px;
+	height: auto;
 }
 
 .panel-head {

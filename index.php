@@ -37,7 +37,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-         <div id="home"> <img src="images/logo.png" alt="Razorcoin - Cryptocurrency"></div>
+         <div id="home"> <img src="./images/logo.png" alt="Razorcoin - Cryptocurrency"></div>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -46,7 +46,6 @@
             <li><a href="#community">Community</a></li>
 			<li><a href="#development">Development</a></li>
 			<li><a href="#contact">Contact</a></li>
-						</ul>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -68,19 +67,19 @@
 			<ul class="slides">
 				<li class="slide">
 					<div class="image">
-						<img src="images/home-slider/slide03.jpg" alt="slide" />
+						<img src="./images/home-slider/slide03.jpg" alt="slide" />
 					</div>
 					<div class="flex-caption">
 						<h1>Developed with your privacy in mind.</h1>
 						<h4>The Razor network communicates via the Tor network natively, forever separating you from your transactions making for the first truly anonymous network.</h4>
 						<div class="lock">
-							<img src="images/lock-icon.png" alt="Protection">
+							<img src="./images/lock-icon.png" alt="Protection">
 						</div>
 					</div>
 				</li>
 				<li class="slide">
 					<div class="image">
-						<img src="images/home-slider/slide02.jpg" alt="slide" />
+						<img src="./images/home-slider/slide02.jpg" alt="slide" />
 					</div>
 					<div class="flex-caption">
 						<h1>Identity Protection</h1>
@@ -94,7 +93,7 @@
 				</li>
 				<li class="slide">
 					<div class="image">
-						<img src="images/home-slider/slide04.jpg" alt="slide" />
+						<img src="./images/home-slider/slide04.jpg" alt="slide" />
 					</div>
 					<div class="flex-caption">
 						<h1>End to End Encryption</h1>
@@ -106,15 +105,14 @@
 				</li>
 				<li class="slide">
 					<div class="image">
-						<img src="images/home-slider/slide01.jpg" alt="slide" />
+						<img src="./images/home-slider/slide01.jpg" alt="slide" />
 					</div>
 					<div class="flex-caption">
-						<h1>Fully funcitonal pseudononymous SMS gateway.</h1>
-						<h4>
-							<i class="fa fa-eye-slash fa-5x"></i>
-							<div class="plus-slide">+</div>
-							<i class="fa fa-mobile-phone  fa-5x"></i>
-						</h4>
+						<h1>Fully functional pseudononymous SMS gateway.</h1>
+						
+						<i class="fa fa-eye-slash fa-5x"></i>
+						<div class="plus-slide">+</div>
+						<i class="fa fa-mobile-phone  fa-5x"></i>
 					</div>
 				</li>
 			</ul>
@@ -155,127 +153,129 @@
 										</div>
 									</div>
 								</a>
-								</div>
-								<div class="col-md-4">
-									<a href="https://www.dropbox.com/s/jr60zujp4ihtcqz/Razor-Qt_0.1.3.1.dmg" target="_blank">
-										<div class="panel panel-default">
-											<div class="panel-heading">
-												<button class="btn btn-primary">
-													Macintosh
-												</button>
-											</div>
-											<div class="panel-body">
-												<img src="./images/mac.png"/>
-											</div>
+							</div>
+							<div class="col-md-4">
+								<a href="https://www.dropbox.com/s/jr60zujp4ihtcqz/Razor-Qt_0.1.3.1.dmg" target="_blank">
+									<div class="panel panel-default">
+										<div class="panel-heading">
+											<button class="btn btn-primary">
+												Macintosh
+											</button>
 										</div>
-									</a>
-								</div>
-								<div class="col-md-4">
-									<a href="https://github.com/razor-coin/razor" target="_blank">
-										<div class="panel panel-default">
-											<div class="panel-heading">
-												<button class="btn btn-primary">
-													Source
-												</button>
-											</div>
-											<div class="panel-body">
-												<img src="./images/git.png"/>
-											</div>
+										<div class="panel-body">
+											<img src="./images/mac.png"/>
 										</div>
-									</a>
-								</div>
-								<div class="row">
-									<div class="extra-links">
-										<div class="col-md-3">
-											<div class="well well-sm">
-												<a class="btn btn-primary" href="http://www.bitscoinshop.com.br/en/" target="_blank">
-													Merchant: bitcoinshop
-												</a>
-											</div>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4">
+								<a href="https://github.com/razor-coin/razor" target="_blank">
+									<div class="panel panel-default">
+										<div class="panel-heading">
+											<button class="btn btn-primary">
+												Source
+											</button>
 										</div>
-										<div class="col-md-3">
-											<div class="well well-sm">
-												<a class="btn btn-primary" href="http://jaysjerkyandgoodies.auctivacommerce.com/" target="_blank">
-													Merchant: Jays Jerky and Goodies
-												</a>
-											</div>
+										<div class="panel-body">
+											<img src="./images/git.png"/>
 										</div>
-										<div class="col-md-3">
-											<div class="well well-sm">
-												<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/top100" target="_blank">
-													Top 100 richest
-												</a>
-											</div>
+									</div>
+								</a>
+							</div>
+							<div class="row">
+								<div class="extra-links">
+									<div class="col-md-3">
+										<div class="well well-sm">
+											<a class="btn btn-primary" href="http://www.bitscoinshop.com.br/en/" target="_blank">
+												Merchant: Bitcoinshop
+											</a>
 										</div>
-										<div class="col-md-3">
-											<div class="well well-sm">
-												<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/" target="_blank">
-													Block Explorer
-												</a>
-											</div>
+									</div>
+									<div class="col-md-3">
+										<div class="well well-sm">
+											<a class="btn btn-primary" href="http://prypto.com/" target="_blank">
+												Merchant: Prypto
+											</a>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="well well-sm">
+											<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/top100" target="_blank">
+												Top 100 richest
+											</a>
+										</div>
+									</div>
+									<div class="col-md-3">
+										<div class="well well-sm">
+											<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/" target="_blank">
+												Block Explorer
+											</a>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-						<div id="specifications" class="tab-pane fade in active">
-							<article >
-								<h4>What is <strong>Razorcoin?</strong></h4>
-								<p>
-									Razor is the next evolution in cryptocurrency that offers enhanced privacy and security features.  Taking anonymity and privacy one step further, Razor utilizes the TOR network to connect clients.  Implementing this concept with current anonymous transaction innovation we plan to create the first truly private currency.  With current implementation it is possible to remain as anonymous as you would like.  The network will be supported through scrypt PoW.  We have chosen the scrypt algorithm because we believe ASICs can strengthen the network.  We feel it is still in a stage everyone can participate and still have the best of both worlds.
-								</p>
-								<div class="row">
-									<div class="col-md-offset-2 col-md-8">
-										<ul class="list-group ui-selectable">
-											<li class="list-group-item ui-selectee">Symbol : RZR</li>
-											<li class="list-group-item ui-selectee">Max Coins : 2,000,000 (2 Million)</li>
-											<li class="list-group-item ui-selectee">Algorithm : Scrypt</li>
-											<li class="list-group-item ui-selectee">Premine : <strong>0%</strong></li>
-											<li class="list-group-item ui-selectee">Block time : 75 seconds</li>
-											<li class="list-group-item ui-selectee">Re-targeting : KGW</li>
-											<li class="list-group-item ui-selectee">Block reward: 100</li>
-											<li class="list-group-item ui-selectee">Halving : every 10,000 blocks</li>
-											<li class="list-group-item ui-selectee">RPCPort : 9393</li>
-										</ul>
-									</div>
-								</div>
-							</article>
-						</div>
-						<div class="tab-pane fade " id="exchanges">
+					</div>
+					<div id="specifications" class="tab-pane fade in active">
+						<article >
+							<h4>What is <strong>Razorcoin?</strong></h4>
+							<p>
+								Razor is the next evolution in cryptocurrency that offers enhanced privacy and security features.  Taking anonymity and privacy one step further, Razor utilizes the TOR network to connect clients.  Implementing this concept with current anonymous transaction innovation we plan to create the first truly private currency.  With current implementation it is possible to remain as anonymous as you would like.  The network will be supported through scrypt PoW.  We have chosen the scrypt algorithm because we believe ASICs can strengthen the network.  We feel it is still in a stage everyone can participate and still have the best of both worlds.
+							</p>
 							<div class="row">
-								<div class="col-xs-12 col-sm-5">
-									<article class="text-center">
+								<div class="col-md-offset-2 col-md-8">
+									<ul class="list-group ui-selectable">
+										<li class="list-group-item ui-selectee">Symbol : RZR</li>
+										<li class="list-group-item ui-selectee">Max Coins : 2,000,000 (2 Million)</li>
+										<li class="list-group-item ui-selectee">Algorithm : Scrypt</li>
+										<li class="list-group-item ui-selectee">Premine : <strong>0%</strong></li>
+										<li class="list-group-item ui-selectee">Block time : 75 seconds</li>
+										<li class="list-group-item ui-selectee">Re-targeting : KGW</li>
+										<li class="list-group-item ui-selectee">Block reward: 100</li>
+										<li class="list-group-item ui-selectee">Halving : every 10,000 blocks</li>
+										<li class="list-group-item ui-selectee">RPCPort : 9393</li>
+									</ul>
+								</div>
+							</div>
+						</article>
+					</div>
+					<div class="tab-pane fade " id="exchanges">
+						<div class="row">
+							<div class="col-xs-12 col-sm-5">
+								<article class="text-center">
+									<a href="https://www.bittrex.com/Market/Index?MarketName=BTC-RZR" target="_blank">
 										<div class="panel panel-default">
 											<div class="panel-heading">
-												<a href="https://www.bittrex.com/Market/Index?MarketName=BTC-RZR" class="btn btn-primary" target="_blank">Visit Bittrex</a>
+												<button class="btn btn-primary">Visit Bittrex</button>
 											</div>
 											<div class="panel-body">
-												<img src="images/logo-bittrex.png" alt="Bittrex">
+												<img src="./images/logo-bittrex.png" alt="Bittrex">
 											</div>
-											
 										</div>
-									</article>
-								</div>
-								<div class="hidden-xs col-sm-2">
+									</a>
+								</article>
+							</div>
+							<div class="hidden-xs col-sm-2">
 							</div>
 							<div class="col-xs-12 col-sm-5">
 								<article class="text-center" >
-									<div class="panel panel-default">
-										<div class="panel-heading">
-											<a href="https://www.mintpal.com/market/RZR/BTC" class="btn btn-primary" target="_blank">Visit Mintpal</a>
+									<a href="https://www.mintpal.com/market/RZR/BTC">
+										<div class="panel panel-default">
+											<div class="panel-heading">
+												<button class="btn btn-primary">Visit Mintpal</button>
+											</div>
+											<div class="panel-body">
+												<img src="./images/mintpal.png" alt="Mintpal" />
+											</div>
 										</div>
-										<div class="panel-body">
-											<img src="images/mintpal.png" alt="Mintpal">
-										</div>
-									
-									</div>
+									</a>
 								</article>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		<article>
+		</div>
 	</section>
 
 	<section id="community" class="section">
@@ -429,15 +429,14 @@
 				
                
                     <p class="copyright">
-						Razorcoin&copy; 2014 
+						Razorcoin &copy; 2014 
 					</p>
 				</div>
 				<div class="col-xs-12 col-sm-6 text-right">
 					<p>
-						Designed by <a href="https://twitter.com/goldminer333"><img src="images/goldminer.png" alt="Goldminer.graphics" width="32" height="24" border="0"></a> & <a href="https://twitter.com/fullhdpixel">Fullhdpixel </a>
-                         <a id="back-to-top" href="#home-link" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><i class="fa fa-arrow-up"></i></span></a>
+						Designed by <a href="https://twitter.com/goldminer333"><img src="./images/goldminer.png" alt="Goldminer.graphics" width="32" height="24" border="0"></a> & <a href="https://twitter.com/fullhdpixel">Fullhdpixel </a>
+                        <a id="back-to-top" href="#home-link" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><i class="fa fa-arrow-up"></i></span></a>
 					</p>
-                   
                 </div>
             </div>
 		</div>
@@ -459,10 +458,7 @@
 
 <script>
 $('a').smoothScroll();
-</script>
 
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
 var sc_project=9880446; 
 var sc_invisible=1; 
 var sc_security="cfe065ed"; 
@@ -472,6 +468,5 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script>
-<!-- End of StatCounter Code for Default Guide -->
 </body>
 </html>
