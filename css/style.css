@@ -2,11 +2,19 @@
 	.logo img {
 		width: 250px !important;
 	}
+	
+	.tabs-buttons li a{
+		min-width: 200px !important;
+	}
 }
 
 @media (max-width:910px) {
 	.logo img {
 		width: 200px !important;
+	}
+	
+	.tabs-buttons li a{
+		min-width: 150px !important;
 	}
 }
 
@@ -23,6 +31,8 @@
 /* General */
 
 body {
+	width: 100% !important;
+	overflow-x: hidden;
 }
 
 header {
@@ -31,12 +41,8 @@ header {
 	min-width: 100%;
 }
 
-.nav li a{
-
-}
-
-.nav li a:hover{
-
+.tabs-buttons li a{
+	min-width: 250px !important;
 }
 
 .navbar-trans li.active {

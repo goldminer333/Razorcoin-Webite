@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
     <head>
+		<!-- Created by
+			@goldminer333 (twitter)
+			@fullhdpixel (twitter)
+		-->
+		
         <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
         <title>Razorcoin | Privacy Matters</title>
+		<meta name="description" content="Taking anonymity and privacy one step further, Razor utilizes the TOR network to connect clients.">
+		<meta name="keywords" content="Razorcoin, bitcoin, altcoin, bitcointalk, investment, cryptocurrency, official, website, speculative">
+		<meta name="author" content="metatags generator">
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="3 month">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  		<link rel="icon" type="image/ico" href="favicon.ico"/>
         <meta name="keywords" content="Responsive, Template, DIMCO">
@@ -29,26 +39,28 @@
     <body>
 	
 	<div role="navigation" class="navbar navbar-inverse navbar-scroll-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-         <div id="home"> <img src="./images/logo.png" alt="Razorcoin - Cryptocurrency"></div>
-        </div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#home">Home</a></li>
-            <li><a href="#specifications">About</a></li>
-            <li><a href="#community">Community</a></li>
-			<li><a href="#development">Development</a></li>
-			<li><a href="#contact">Contact</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
+		<div class="container">
+			<div class="navbar-header">
+				<button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<div id="home">
+					<img src="./images/logo.png" alt="Razorcoin - Cryptocurrency">
+				</div>
+			</div>
+			<div class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="#home">Home</a></li>
+					<li><a href="#specifications">About</a></li>
+					<li><a href="#community">Community</a></li>
+					<li><a href="#development">Development</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</div><!--/.nav-collapse -->
+		</div>
     </div>
     
     <section class="home-slider" id="index">
@@ -143,19 +155,21 @@
 					<div class="tab-pane fade" id="wallets">
 						<div class="row">
 							<div class="col-md-4">
-								<a href="https://mega.co.nz/#!J8pzEIwZ!1VyB2MuxxzchJixD5PqXNMe9BMX7frwYMYLljP7fGTY" target="_blank">
+								<form action="https://mega.co.nz/#!J8pzEIwZ!1VyB2MuxxzchJixD5PqXNMe9BMX7frwYMYLljP7fGTY" method="get" target="_blank">
 									<div class="panel panel-default">
 										<div class="panel-heading">
 											<button class="btn btn-primary">Windows</button>
 										</div>
 										<div class="panel-body">
-											<img src="./images/win.png"/>
+											<a href="https://mega.co.nz/#!J8pzEIwZ!1VyB2MuxxzchJixD5PqXNMe9BMX7frwYMYLljP7fGTY" target="_blank">
+												<img src="./images/win.png" alt="windows"/>
+											</a>
 										</div>
 									</div>
-								</a>
+								</form>
 							</div>
 							<div class="col-md-4">
-								<a href="https://www.dropbox.com/s/jr60zujp4ihtcqz/Razor-Qt_0.1.3.1.dmg" target="_blank">
+								<form action="https://www.dropbox.com/s/jr60zujp4ihtcqz/Razor-Qt_0.1.3.1.dmg" method="get" target="_blank">
 									<div class="panel panel-default">
 										<div class="panel-heading">
 											<button class="btn btn-primary">
@@ -163,13 +177,15 @@
 											</button>
 										</div>
 										<div class="panel-body">
-											<img src="./images/mac.png"/>
+											<a href="https://www.dropbox.com/s/jr60zujp4ihtcqz/Razor-Qt_0.1.3.1.dmg" target="_blank">
+												<img src="./images/mac.png" alt="mac"/>
+											</a>
 										</div>
 									</div>
-								</a>
+								</form>
 							</div>
 							<div class="col-md-4">
-								<a href="https://github.com/razor-coin/razor" target="_blank">
+								<form action="https://github.com/razor-coin/razor" method="get" target="_blank">
 									<div class="panel panel-default">
 										<div class="panel-heading">
 											<button class="btn btn-primary">
@@ -177,10 +193,12 @@
 											</button>
 										</div>
 										<div class="panel-body">
-											<img src="./images/git.png"/>
+											<a href="https://github.com/razor-coin/razor" target="_blank">
+												<img src="./images/git.png" alt="github"/>
+											</a>
 										</div>
 									</div>
-								</a>
+								</form>
 							</div>
 							<div class="row">
 								<div class="extra-links">
@@ -243,7 +261,7 @@
 						<div class="row">
 							<div class="col-xs-12 col-sm-5">
 								<article class="text-center">
-									<a href="https://www.bittrex.com/Market/Index?MarketName=BTC-RZR" target="_blank">
+									<form action="https://www.bittrex.com/Market/Index?MarketName=BTC-RZR" method="get" target="_blank">
 										<div class="panel panel-default">
 											<div class="panel-heading">
 												<button class="btn btn-primary">Visit Bittrex</button>
@@ -252,23 +270,25 @@
 												<img src="./images/logo-bittrex.png" alt="Bittrex">
 											</div>
 										</div>
-									</a>
+									</form>
 								</article>
 							</div>
 							<div class="hidden-xs col-sm-2">
 							</div>
 							<div class="col-xs-12 col-sm-5">
-								<article class="text-center" >
-									<a href="https://www.mintpal.com/market/RZR/BTC">
+								<article class="text-center">
+									<form action="https://www.mintpal.com/market/RZR/BTC" method="get" target="_blank">
 										<div class="panel panel-default">
 											<div class="panel-heading">
 												<button class="btn btn-primary">Visit Mintpal</button>
 											</div>
 											<div class="panel-body">
-												<img src="./images/mintpal.png" alt="Mintpal" />
+												<a href="https://www.mintpal.com/market/RZR/BTC" target="_blank">
+													<img src="./images/mintpal.png" alt="Mintpal" />
+												</a>
 											</div>
 										</div>
-									</a>
+									</form>
 								</article>
 							</div>
 						</div>
@@ -282,7 +302,7 @@
 			<div class="row"> 
 				<div class="container">
 					<div class="col-md-6">
-						<a href="https://bitcointalk.org/index.php?topic=644498.0" target="_blank">
+						<form action="https://bitcointalk.org/index.php?topic=644498.0" method="get" target="_blank">
 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<div class="panel-title">
@@ -290,16 +310,18 @@
 									</div>
 								</div>
 								<div class="panel-body">
-									<i class="fa fa-bitcoin fa-4x"></i>
-									<p>
-										Bitcointalk thread
-									</p>
+									<a href="https://bitcointalk.org/index.php?topic=644498.0" target="_blank">
+										<i class="fa fa-bitcoin fa-4x"></i>
+										<p>
+											Bitcointalk thread
+										</p>
+									</a>
 								</div>
 							</div>
-						</a>						
+						</form>						
 					</div>
 					<div class="col-md-6">
-						<a href="http://www.reddit.com/r/razorcoin" target="_blank">
+						<form action="http://www.reddit.com/r/razorcoin" method="get" target="_blank">
 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<div class="panel-title">
@@ -307,13 +329,15 @@
 									</div>
 								</div>
 								<div class="panel-body">
-									<img src="./images/reddit.png"/>
-									<p>
-										/r/razorcoin
-									</p>
+									<a href="http://www.reddit.com/r/razorcoin" target="_blank">
+										<img src="./images/reddit.png" alt="reddit"/>
+										<p>
+											/r/razorcoin
+										</p>
+									</a>
 								</div>
 							</div>
-						</a>
+						</form>
 					</div>
 				</div>
 			</div>
@@ -327,12 +351,11 @@
 						<div class="panel-heading">
 							<div class="panel-title">
 								<h2>Whitepapers</h2>
-								</a>
 							</div>
 						</div>
 						<div class="panel-body">
 							<div class="col-md-6">
-								<a href="https://www.dropbox.com/s/dl6aozbf3ddgjpy/Razor_Whitepaper.pdf" target="_blank">
+								<form action="https://www.dropbox.com/s/dl6aozbf3ddgjpy/Razor_Whitepaper.pdf" method="get" target="_blank">
 									<i class="fa fa-file-o fa-4x"></i>
 									<p>
 										An Analysis of Anonymity in Bitcoin Using P2P Network Traffic:
@@ -340,10 +363,10 @@
 									<p>
 										<button type="button" class="btn btn-primary">White Paper #1</button>
 									</p>
-								</a>
+								</form>
 							</div>
 							<div class="col-md-6">
-								<a href="http://fc14.ifca.ai/papers/fc14_submission_71.pdf" target="_blank">
+								<form action="http://fc14.ifca.ai/papers/fc14_submission_71.pdf" method="get" target="_blank">
 									<i class="fa fa-file-text-o fa-4x"></i>
 									<p>
 										The Razor whitepaper and solution to the previous whitepaper:
@@ -351,7 +374,7 @@
 									<p>
 										<button type="button" class="btn btn-primary">White Paper #2</button>
 									</p>
-								</a>
+								</form>
 							</div>
 						</div>
 					</div>
@@ -363,7 +386,7 @@
 		<div class="row"> 
 			<div class="container">
 				<div class="col-md-5">
-					<a href="https://twitter.com/TheRazorCoin">
+					<form action="https://twitter.com/TheRazorCoin" method="get" target="_blank">
 						<div class="panel panel-default">
 							<div class="panel-heading">
 								<div class="panel-title">
@@ -373,14 +396,16 @@
 							<div class="panel-body">
 								<i class="fa fa-twitter fa-4x"></i>
 								<p>
-									@TheRazorCoin
+									<a href="https://twitter.com/TheRazorCoin" target="_blank">
+										@TheRazorCoin
+									</a>
 								</p>
 							</div>
 						</div>
-					</a>
+					</form>
 				</div>
 				<div class="col-md-5">
-					<a href="http://webchat.freenode.net/?channels=RazorCoin">
+					<form action="http://webchat.freenode.net/?channels=RazorCoin">
 						<div class="panel panel-default">
 							<div class="panel-heading">
 								<div class="panel-title">
@@ -391,51 +416,53 @@
 								<div class="panel-title">
 									<i class="fa fa-group fa-4x pull-center"></i>
 									<p>
+										<a href="http://webchat.freenode.net/?channels=RazorCoin" target="_blank">
 										RazorCoin
+										</a>
 									</p>
 								</div>
 							</div>
 						</div>
-					</a>
+					</form>
 				</div>
 				<div class="col-md-2">
-					<a href="mailto:admin@razorco.in">
+					<form action="mailto:admin@razorco.in">
 						<div class="panel panel-default">
 							<div class="panel-heading">
 								<div class="panel-title">
-										<button type="button" class="btn btn-primary">Email</button>
+									<button type="button" class="btn btn-primary">Email</button>
 								</div>
 							</div>
 							<div class="panel-body">
 								<i class="fa fa-mail-reply fa-4x"></i>
 								<p>
-									admin@razorco.in
+									<a href="mailto:admin@razorco.in">
+										admin@razorco.in
+									</a>
 								</p>
 							</div>
 						</div>
-					</a>
+					</form>
 				</div>
 			</div>
 		</div>
-        
 	</section>
-</div>
 
 <div class="footer">	
-	<div id="row">
+	<div class="row">
 		<div class="copyright-bar">
 			<div class="container">
 				<div class="col-xs-12 col-sm-6">
-				
-               
                     <p class="copyright">
-						Razorcoin &copy; 2014 
+						Razorcoin &copy; 2014
 					</p>
 				</div>
 				<div class="col-xs-12 col-sm-6 text-right">
 					<p>
 						Designed by <a href="https://twitter.com/goldminer333"><img src="./images/goldminer.png" alt="Goldminer.graphics" width="32" height="24" border="0"></a> & <a href="https://twitter.com/fullhdpixel">Fullhdpixel </a>
-                        <a id="back-to-top" href="#home-link" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><i class="fa fa-arrow-up"></i></span></a>
+                        <a id="back-to-top" href="#home-link" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left">
+							<i class="fa fa-arrow-up"></i>
+						</a>
 					</p>
                 </div>
             </div>
@@ -448,7 +475,6 @@
 <script src="js/jquery-migrate-1.2.1.js"></script>
 <script src="css/bootstrap/js/bootstrap.min.js"></script>
 <script src="js/jquery.smooth-scroll.min.js"></script>
-<script src="js/jquery.dlmenu.js"></script>
 <script type="text/javascript" src="js/css_browser_selector.js"></script>
 <script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="js/jquery.easing-1.3.js"></script>
