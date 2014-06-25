@@ -141,7 +141,7 @@
 						<li><a class="le-button big" href="#wallets" data-toggle="tab"><i class="fa fa-money"></i>Wallets</a></li>
 						<li class="active"><a class="le-button big active" href="#specifications" data-toggle="tab"><i class="fa fa-info"></i>Specifications</a></li>
 						<li><a class="le-button big" href="#exchanges" data-toggle="tab"><i class="fa fa-exchange"></i>Exchanges</a></li>
-						<li><a class="le-button big" href="https://bitcointalk.org/index.php?topic=644498.0" target="_blank"><i class="fa fa-suitcase"></i>Resources</a></li>
+						<li><a class="le-button big" href="#merchants" data-toggle="tab"><i class="fa fa-suitcase"></i>Merchants</a></li>
 					</ul>
 				</div>
 			</div>
@@ -152,7 +152,7 @@
                         
 				<!-- Tab panes -->
 				<div class="tab-content">
-					<div class="tab-pane fade" id="wallets">
+					<div class="tab-pane fade in" id="wallets">
 						<div class="row">
 							<div class="col-md-4">
 								<form action="https://mega.co.nz/#!J8pzEIwZ!1VyB2MuxxzchJixD5PqXNMe9BMX7frwYMYLljP7fGTY" method="get" target="_blank">
@@ -200,41 +200,9 @@
 									</div>
 								</form>
 							</div>
-							<div class="row">
-								<div class="extra-links">
-									<div class="col-md-3">
-										<div class="well well-sm">
-											<a class="btn btn-primary" href="http://www.bitscoinshop.com.br/en/" target="_blank">
-												Merchant: Bitcoinshop
-											</a>
-										</div>
-									</div>
-									<div class="col-md-3">
-										<div class="well well-sm">
-											<a class="btn btn-primary" href="http://prypto.com/" target="_blank">
-												Merchant: Prypto
-											</a>
-										</div>
-									</div>
-									<div class="col-md-3">
-										<div class="well well-sm">
-											<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/top100" target="_blank">
-												Top 100 richest
-											</a>
-										</div>
-									</div>
-									<div class="col-md-3">
-										<div class="well well-sm">
-											<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/" target="_blank">
-												Block Explorer
-											</a>
-										</div>
-									</div>
-								</div>
-							</div>
 						</div>
 					</div>
-					<div id="specifications" class="tab-pane fade in active">
+					<div class="tab-pane fade in active" id="specifications">
 						<article >
 							<h4>What is <strong>Razorcoin?</strong></h4>
 							<p>
@@ -257,7 +225,7 @@
 							</div>
 						</article>
 					</div>
-					<div class="tab-pane fade " id="exchanges">
+					<div class="tab-pane fade in" id="exchanges">
 						<div class="row">
 							<div class="col-xs-12 col-sm-5">
 								<article class="text-center">
@@ -290,6 +258,40 @@
 										</div>
 									</form>
 								</article>
+							</div>
+						</div>
+					</div>
+					<div class="tab-pane fade in" id="merchants">
+						<div class="row">
+							<div class="extra-links">
+								<div class="col-md-3">
+									<div class="well well-sm">
+										<a class="btn btn-primary" href="http://www.bitscoinshop.com.br/en/" target="_blank">
+											Merchant: Bitcoinshop
+										</a>
+									</div>
+								</div>
+								<div class="col-md-3">
+									<div class="well well-sm">
+										<a class="btn btn-primary" href="http://prypto.com/" target="_blank">
+											Merchant: Prypto
+										</a>
+									</div>
+								</div>
+								<div class="col-md-3">
+									<div class="well well-sm">
+										<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/top100" target="_blank">
+											Top 100 richest
+										</a>
+									</div>
+								</div>
+								<div class="col-md-3">
+									<div class="well well-sm">
+										<a class="btn btn-primary" href="http://rzrinsight.buddylabsapps.com/" target="_blank">
+											Block Explorer
+										</a>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
