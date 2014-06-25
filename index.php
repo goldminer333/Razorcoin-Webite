@@ -394,12 +394,12 @@
 								</div>
 							</div>
 							<div class="panel-body">
-								<i class="fa fa-twitter fa-4x"></i>
-								<p>
-									<a href="https://twitter.com/TheRazorCoin" target="_blank">
+								<a href="https://twitter.com/TheRazorCoin" target="_blank">
+									<i class="fa fa-twitter fa-4x"></i>
+									<p>
 										@TheRazorCoin
-									</a>
-								</p>
+									</p>
+								</a>
 							</div>
 						</div>
 					</form>
@@ -414,12 +414,12 @@
 							</div>
 							<div class="panel-body">
 								<div class="panel-title">
-									<i class="fa fa-group fa-4x pull-center"></i>
-									<p>
-										<a href="http://webchat.freenode.net/?channels=RazorCoin" target="_blank">
-										RazorCoin
-										</a>
-									</p>
+									<a href="http://webchat.freenode.net/?channels=RazorCoin" target="_blank">
+										<i class="fa fa-group fa-4x pull-center"></i>
+										<p>
+											RazorCoin
+										</p>
+									</a>
 								</div>
 							</div>
 						</div>
@@ -434,12 +434,12 @@
 								</div>
 							</div>
 							<div class="panel-body">
-								<i class="fa fa-mail-reply fa-4x"></i>
-								<p>
-									<a href="mailto:admin@razorco.in">
+								<a href="mailto:admin@razorco.in">
+									<i class="fa fa-mail-reply fa-4x"></i>
+									<p>
 										admin@razorco.in
-									</a>
-								</p>
+									</p>
+								</a>
 							</div>
 						</div>
 					</form>
