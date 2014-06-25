@@ -461,7 +461,7 @@
 					<p>
 						Designed by <a href="https://twitter.com/goldminer333"><img src="./images/goldminer.png" alt="Goldminer.graphics" width="32" height="24" border="0"></a> & <a href="https://twitter.com/fullhdpixel">Fullhdpixel </a>
                         <a id="back-to-top" href="#home-link" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left">
-							<i class="fa fa-arrow-up"></i>
+						<i class="fa fa-arrow-up"></i>
 						</a>
 					</p>
                 </div>

@@ -30,9 +30,8 @@
 
 /* General */
 
-body {
-	width: 100% !important;
-	overflow-x: hidden;
+html, body {
+
 }
 
 header {
@@ -103,4 +102,8 @@ header {
 
 .top-menu-holder li {
 	white-space: nowrap !important;
+}
+
+.footer {
+	width: 100% !important;
 }
